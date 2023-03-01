@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ERC20Token.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ERC20Token.sol": {
+			"keccak256": "0xfb39e3d64c908429bf9cdb79b611f24372a6c3d0bb5e426b7323f3ba7a717550",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://1c276e4f8b434aaf5e57ddeb3ca9388e1a6d92e3cc35fa8da15e095eccb0ab97",
+				"dweb:/ipfs/QmVuSPjLEtQtEoCUU3u3TSBgAqsYr5wRZUwHh37JNX9dje"
+			]
+		}
+	},
+	"version": 1
+}
